@@ -1,0 +1,43 @@
+header {
+    color: red;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    }
+
+body {
+    font-family: Cochin;
+    color: grey;
+    background: goldenrod;
+    font-size: 18px;
+    width: 960px;
+    }
+
+section {
+    width: 495px;
+    }
+
+article {
+    font-size: 10px;
+    text-align: left;
+    color: green;
+    background: pink;
+    width: 40%;
+    float: left;
+    }
+
+aside {
+    display: block;
+    align-content: right;
+    text-align: right;
+    color: blue;
+    width: 40%;
+    float: right;
+    }
+
+footer {
+    width: 960px;
+    text-align: center;
+    padding: 10px;
+    }
